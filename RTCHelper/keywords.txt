@@ -1,0 +1,10 @@
+RTCHelper	KEYWORD1
+readDS3231	KEYWORD2
+writeDS3231	KEYWORD2
+bcdToDec	KEYWORD2
+readSeconds	KEYWORD2
+readMinutes	KEYWORD2
+readDayOfMonth	KEYWORD2
+readMonth	KEYWORD2
+readYear	KEYWORD2
+setDate		KEYWORD2
